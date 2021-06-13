@@ -1,0 +1,52 @@
+/* RobberBaron.TV's CSS Document 
+ * By Thabo David Nyakallo Klass
+ */
+
+.robber_baron_tv_true {
+	color: rgb(0, 194, 0);
+}
+
+.robber_baron_tv_false {
+	color:red;
+}
+
+#robber_baron_tv_loading {
+	display : none;
+}
+
+.spinner {
+	display: inline;
+}
+
+#robber_baron_tv_upload_complete {
+	background: #daffd6;
+	border-color: #beffb7;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+}
+
+#robber_baron_tv_connection_complete {
+	background: #daffd6;
+	border-color: #beffb7;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+}
+
+#robber_baron_tv_support_fields_not_filled {
+	background: #f8dbdb;
+	border-color: #e77776;
+	display : none;
+	height: 40px;
+	padding: 4px 10px;
+	margin: 10px 0;
+}
+
+.robber_baron_tv_connected_true {
+	color: rgb(0, 194, 0);
+}
+
+.robber_baron_tv_connected_false {
+	color:red;
+}

@@ -1,0 +1,11 @@
+#robber_baron_tv_clickable_logo {
+  position: fixed; 
+  width: 62px;
+  height: 25px;
+  bottom: 30px;
+  right: 25%;
+  left: 50%;
+  margin-left: -31px;
+  background-color: white;
+  filter: drop-shadow(4px 4px 3px #cecece);
+}
